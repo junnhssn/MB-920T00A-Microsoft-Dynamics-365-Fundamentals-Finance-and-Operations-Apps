@@ -22,7 +22,7 @@ During this lab, you will explore the onboarding process for a new employee, inc
 
 1. Select **Create position**.
 
-1. Using the navigation pane, select **Modules** > **Workers** > **Employees**.
+1. Using the navigation pane, select **Modules** > **Human resources** > **Workers** > **Employees**.
 
 1. In the Action Pane, select **+New** to create a new employee.
 
