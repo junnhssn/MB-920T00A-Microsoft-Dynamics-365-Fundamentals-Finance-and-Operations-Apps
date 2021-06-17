@@ -80,7 +80,7 @@ Your company's Boston store is ready to drive sales of some products that need t
 
 1. In the top right of the Price groups page, select the **Close** icon.
 
-1. On the Discounts page, in the Details tab, select the **Status** menu, and then select **Enabled**.
+1. On the Discounts page, in the General tab, select the **Status** menu, and then select **Enabled**.
 
 1. Notice discount settings can no longer be edited.
 
