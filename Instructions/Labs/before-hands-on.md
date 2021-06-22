@@ -1,5 +1,3 @@
-# Before Hands On
-
 ## Lab Setup
 
 - **Estimated Time**: 10 minutes
